@@ -1,0 +1,13 @@
+asgiref==3.7.2
+Django==4.2.4
+django-oauth-plus==2.2.9
+django-oauth2-provider==0.2.6.1
+djangorestframework==3.14.0
+djangorestframework-oauth==1.1.0
+httplib2==0.22.0
+oauth2==1.9.0.post1
+pyparsing==3.1.1
+pytz==2023.3
+shortuuid==1.0.11
+sqlparse==0.4.4
+typing_extensions==4.7.1
